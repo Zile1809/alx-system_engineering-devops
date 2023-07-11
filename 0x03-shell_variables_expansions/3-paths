@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`echo $PATH | grepo -o ':/' | wc -l` + 1)) 
+cat/etc/passwd/etc/hosts
